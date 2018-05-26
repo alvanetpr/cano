@@ -1,0 +1,8 @@
+{
+  "name": "canovanas",
+  "app_id": "6f937f5a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
